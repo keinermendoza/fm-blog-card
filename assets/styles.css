@@ -81,11 +81,11 @@ main {
     gap: 1.5rem;
 }
 
-.post-card__body {
+.post-card__title {
     cursor: pointer;
 }
 
-.post-card__body:hover {
+.post-card__title:hover {
     color: var(--yellow);
 }
 
