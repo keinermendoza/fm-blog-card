@@ -10,7 +10,7 @@ This is  my solution too the [Blog preview card challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [TODO]()
+- Solution URL: [Available on Frontend Mentor](https://www.frontendmentor.io/solutions/post-card-component-in-html-and-css-cZB5NV4YMS)
 - Live Site URL: [Hosted on Vercel](https://fm-blog-card-one.vercel.app/)
 
 ## My process
